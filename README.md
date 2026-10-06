@@ -32,3 +32,14 @@ dev branch
 Pull Request
         ↓
 main branch
+
+## Git Workflow Demonstration
+
+This section was added using the feature branch.
+
+The project demonstrates:
+- Git branching
+- Feature development
+- Pull requests
+- Branch merging
+- Git tags
